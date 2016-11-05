@@ -1,0 +1,1 @@
+Implementacja gry pt. "Snake" na atmega32 z wykorzystaniem wyswietlacza Nokii 6100 132x132 piksele.
